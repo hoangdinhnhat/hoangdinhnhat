@@ -1,16 +1,14 @@
 ### Hi there 👋
+My name is Hoang Dinh Nhat
 
-<!--
-**hoangdinhnhat/hoangdinhnhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Software Engineering in FPT University HCM Campus.
 
-Here are some ideas to get you started:
+⚡I am particularly interested in math, logic, and new technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: nhat.hoangdinh@outlook.com
+
+**My statistics:**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
